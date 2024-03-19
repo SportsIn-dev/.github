@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+SportsIn aims to solve the information dispersion problem in sports events. I'm talking about every kind of event: from your kiddo's/nephew/neese/whatever under-12 lacrosse game to the final of the Champions League.
+
+Currently, this information is all over the place: on live score applications, Facebook pages, Instagram pages, obscure clubs websites that still have that 2000s UI, you name it. We want to end that: one platform for all.
+
+How, you ask?
+
+1. Web application for clubs, regional associations, or federations to create events
+2. Mobile application for people to consume those events
+
+We are almost there: the mobile application MVP is done, and the web application MVP is 90% done.
+
+You can check our webiste here: [SportsIn website](https://sportsin.app/).
+
 <!--
 
 **Here are some ideas to get you started:**
