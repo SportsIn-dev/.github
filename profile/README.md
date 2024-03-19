@@ -6,12 +6,13 @@ Currently, this information is all over the place: on live score applications, F
 
 How, you ask?
 
-1. Web application for clubs, regional associations, or federations to create events
-2. Mobile application for people to consume those events
+1. Web application for clubs, regional associations, or federations to create events. Developed with Django.
+2. Mobile application for people to consume those events. Developed with Flutter.
+3. Commercial website for people to know about us. Developed with Astro.
 
 We are almost there: the mobile application MVP is done, and the web application MVP is 90% done.
 
-You can check our webiste here: [SportsIn website](https://sportsin.app/).
+You can check our webiste here: [SportsIn website](https://sportsin.app/) (still only in Portuguese, I know. Working on that).
 
 <!--
 
