@@ -12,7 +12,7 @@ How, you ask?
 
 We are almost there: the mobile application MVP is done, and the web application MVP is 90% done.
 
-You can check our webiste here: [SportsIn website](https://sportsin.app/) (still only in Portuguese, I know. Working on that).
+You can check our website here: [SportsIn website](https://sportsin.app/) (still only in Portuguese, I know. Working on that).
 
 <!--
 
